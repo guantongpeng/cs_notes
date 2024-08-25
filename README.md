@@ -2,9 +2,7 @@
 
 计算机科学导论
 
-C & C++  ==>  lua
-
-java语言 （springboot redis nigix maven）
+C & C++
 
 #### 数据结构与算法
 
@@ -37,33 +35,49 @@ java语言 （springboot redis nigix maven）
 
 ##### 深度学习量化推理     
 
-- TensorRT
-
 - CUDA  & openCL
+- TensorRT
+- Triton
+- ONNXRuntime
 
 ##### 神经网络编译器
 
 - MLIR
 - TVM
+- XLA
+- IREE
+
+
 
 #### AI算法
 
-计算机视觉（深度学习）
+##### 计算机视觉
 
 - mmdetection
 - timm
 
-#### 生成式模型
+##### 生成式模型
 
 - LLM
 - VLM（扩散模型）
 - 多模态
+
+##### Kaggle
+
+- https://github.com/schrodingercatss/tuning_playbook_zh_cn
+- https://github.com/faridrashidi/kaggle-solutions
+- https://github.com/SWHL/AI-Competition-Collections
+- https://github.com/IMPlus-PCALab/AICompetition
 
 #### 图像处理
 
 - 数字图像处理（冈萨雷斯）
 
 - OpenCV
+
+- ffmpeg
+
+- gstreamer
 
 #### 编译原理
 
@@ -90,15 +104,24 @@ java语言 （springboot redis nigix maven）
 
 - HTML & CSS & JS
 - Vue
-- react
+- React
+
+#### 后端
+
+##### java开发
+
+- springboot 
+- redis 
+- nigix 
+- maven
 
 #### 硬件设计
 
-AI芯片设计
-
-数字设计（前后端）
+数字芯片设计
 
 芯片验证
+
+AI芯片设计
 
 #### 编程工具
 
@@ -106,3 +129,8 @@ AI芯片设计
 - docker 
 - vim 
 - vscode
+
+#### 传感器
+
+- 光电检测
+- 雷达
